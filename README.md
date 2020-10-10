@@ -1,12 +1,7 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=winston-de&show_icons=true&theme=algolia)
+![](https://github-readme-stats.vercel.app/api?username=winston-de&show_icons=true&theme=default)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=winston-de&theme=algolia)
-
-
-#### Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=winston-de&repo=Simple-Times&theme=algolia)](https://github.com/winston-de/Simple-Times)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=winston-de&repo=Boeing-Analog&theme=algolia)](https://github.com/winston-de/Boeing-Analog)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=winston-de&theme=default)
 
 <!--
 **winston-de/winston-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
